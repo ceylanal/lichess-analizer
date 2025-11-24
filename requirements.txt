@@ -3,4 +3,6 @@ berserk
 python-chess
 pandas
 plotly
+
 matplotlib
+google-generativeai
