@@ -1,6 +1,0 @@
-streamlit
-berserk
-python-chess
-pandas
-plotly
-matplotlib
